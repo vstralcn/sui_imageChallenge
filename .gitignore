@@ -1,0 +1,43 @@
+# OS / Editor
+.DS_Store
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# Environment / Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+backend/oracle.key
+backend/key.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Backend runtime data
+backend/*.log
+backend/log.txt
+backend/leaderboard_history.json
+
+# Frontend build and deps
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/*.log
+frontend/frontend_log.txt
+*.tsbuildinfo
+
+# Local deployment/debug outputs
+config_output*.txt
+config_output*.json
+deploy_output*.txt
+deploy_output*.json
+update_config_output.txt
+pro.zip

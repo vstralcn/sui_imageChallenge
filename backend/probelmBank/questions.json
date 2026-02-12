@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "image_url": "/images/level_1_tokyo.jpg",
+    "lat": 35.65858,
+    "lng": 139.745433,
+    "hint": "Red and white TV tower in Tokyo.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 2,
+    "image_url": "/images/level_2_newyork.jpg",
+    "lat": 40.748817,
+    "lng": -73.985428,
+    "hint": "Near the Empire State Building in New York.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 3,
+    "image_url": "/images/level_3_london.jpg",
+    "lat": 51.5007,
+    "lng": -0.1246,
+    "hint": "Big Ben and the Parliament area in London.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 4,
+    "image_url": "/images/level_4_agra.jpg",
+    "lat": 27.1751,
+    "lng": 78.0421,
+    "hint": "The Taj Mahal in Agra.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 5,
+    "image_url": "/images/level_5_paris.jpg",
+    "lat": 48.8584,
+    "lng": 2.2945,
+    "hint": "The Eiffel Tower in Paris.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 6,
+    "image_url": "/images/level_6_rio.jpg",
+    "lat": -22.951916,
+    "lng": -43.210487,
+    "hint": "Christ the Redeemer overlooks the city.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 7,
+    "image_url": "/images/level_7_paloalto.jpg",
+    "lat": 37.44451,
+    "lng": -122.160988,
+    "hint": "Downtown Palo Alto, California.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 8,
+    "image_url": "/images/level_8_sydney.jpg",
+    "lat": -33.8568,
+    "lng": 151.2153,
+    "hint": "Near the Sydney Opera House.",
+    "difficulty": "Medium"
+  }
+]
